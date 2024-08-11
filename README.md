@@ -1,4 +1,5 @@
 The project is Sweet Insights: A Statistical Exploration of Apple Quality Using Python.
+[Apple_Project_Yiqiu_Wang.pdf](https://github.com/user-attachments/files/16573368/Apple_Project_Yiqiu_Wang.pdf)
 
 In this project, we will use dataset “Apple Quality” from Kaggle. The dataset contains 9 columns covering the attributes of apples:
 
